@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+  //code goes here
 int c[10], d[10], flag = 0, n1, n2, i, j;
 scanf(" %d ",&n1);
 scanf(" %d ",&n2);
