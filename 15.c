@@ -4,6 +4,7 @@
 void reverse(char*, int, int);
 int main()
 {
+   //code goes here
    char p[100];
  
    gets(p);
